@@ -8,5 +8,5 @@
 2. Обновление и удаление сущностей в БД.
 3. Язык HQL. (HQL vs SQL)
 4. Жизненный цикл сущностей Hibernate (Transient, Persistent, Detached, Removed)
-5. Кскадирование в Hibernate (save() vs persist())
+5. Кскадирование в Hibernate save() vs persist()
 6. Ленивая загрузка (Lazy vs Eager)
